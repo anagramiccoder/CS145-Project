@@ -4,7 +4,7 @@ with the following options
 
 -f [string] : change path of data(path includes the txt file name)
 
--a [string]: change IP address of receiver
+-a [string/IPv4]: change IP address of receiver
 
 -s [integer]: change port number of receiver
 
